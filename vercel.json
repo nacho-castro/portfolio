@@ -8,13 +8,6 @@
       "main": true
     }
   },
-  "env": [
-    {
-      "key": "NEXT_PUBLIC_SITE_URL",
-      "value": "https://ignacio-castro.dev",
-      "type": "system"
-    }
-  ],
   "crons": [
     {
       "path": "/api/revalidate",
